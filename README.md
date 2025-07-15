@@ -49,4 +49,4 @@ I'm learning full-stack web development step-by-step and sharing my growth journ
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arpita-btech-cse)
-- 📧 Email: arpitai11022007@gmail.com
+- 📧 Email: arpita11022007@gmail.com
